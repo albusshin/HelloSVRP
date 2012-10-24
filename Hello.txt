@@ -1,7 +1,9 @@
-Hello,Everybody.
+﻿Hello,Everybody.
 
 bcdefgh
 
 ������������ͦ����ѽ����~~~~~
 asdfasdf
 bcdef
+
+最后一行
